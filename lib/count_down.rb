@@ -1,2 +1,2 @@
 count = 10 
-while count 
+while count > 10
